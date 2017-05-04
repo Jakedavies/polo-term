@@ -1,0 +1,14 @@
+{
+  "name": "polo-term",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "autobahn": "^17.5.1",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5",
+    "request-promise": "^4.2.0",
+    "right-pad": "^1.0.1"
+  }
+}
